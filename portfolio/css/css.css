@@ -1,0 +1,21 @@
+.espaco{
+    margin: auto;
+    max-width: 50%;
+}
+
+.espaco ul{
+    margin-left: 150px;
+    margin-top: -135px;
+}
+
+.divisao{
+    background-color: darkslategrey;
+    height: 2px;
+    width: 100%;
+}
+
+body{
+    background-color: lightgray;
+    color:darkslategrey;
+    font-size: 20px;
+}
